@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hey! I’m Prashray Sharma. I’m a developer who enjoys building practical projects and improving a little every single day. I’ve worked with HTML, CSS, JavaScript, Python, C, and C++, and I’m always focused on learning new things and sharpening my skills.<br><br>Some of the projects I’ve built include ContentGuard, an AI-powered NSFW image detection tool with a Flask backend, and Gemini Weather Wave, a modern web app that shows real-time weather updates with a clean, responsive UI. I like working on ideas that solve real problems or automate boring tasks, and I enjoy exploring new tech whenever I get the chance.<br><br>I’m all about steady growth, experimenting with new concepts, and building things that actually work. If you’re into creating cool stuff or trying out new tech, feel free to reach out.
+• 🎓 2nd year B.TECH student
+• 👨‍💻 Developer who loves building useful, real-world projects
+• 🚀 Creator of ContentGuard (AI NSFW detector) & Gemini Weather Wave (real-time weather app)
+• 📚 Always learning, improving, and experimenting with new tech
+• 🎮 Gamer at heart — tech + games = peak happiness
+• 🏋️‍♂️ Gym freak who codes by day and lifts by night
+• 🔍 Passionate about solving problems & automating boring stuff
+• 🤝 Open to collabs and building cool things
 
 
 ## 🌐 Socials:
