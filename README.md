@@ -3,8 +3,6 @@
 <br>
 • 👨‍💻 Developer who loves building useful, real-world projects
 <br>
-• 🚀 Creator of ContentGuard (AI NSFW detector) & Gemini Weather Wave (real-time weather app)
-<br>
 • 📚 Always learning, improving, and experimenting with new tech
 <br>
 • 🎮 Gamer at heart — tech + games = peak happiness
